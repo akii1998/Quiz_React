@@ -207,3 +207,11 @@
   padding: 5px;
   margin: 5px;
 }
+.main-start{
+  /* background-image: url("https://static.wikia.nocookie.net/millionaire/images/7/7c/KBC11Logo.png/revision/latest?cb=20190817115850"); */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 2% 0% 0% 22%;
+}
