@@ -137,7 +137,7 @@
   border-radius: 5px;
 }
 
-.moneyListItem.active {
+.moneyListItem.current {
   background-color: teal;
 }
 
@@ -206,6 +206,10 @@
   font-weight: 200;
   padding: 5px;
   margin: 5px;
+  border-radius: 8px;
+}
+.quitButton:hover{
+  background-color: #351d5c;
 }
 .main-start{
   /* background-image: url("https://static.wikia.nocookie.net/millionaire/images/7/7c/KBC11Logo.png/revision/latest?cb=20190817115850"); */
