@@ -8,7 +8,7 @@ function Start({ SetUser }) {
   };
   return (
     <div className="main-start">
-    <div> 
+    <div className="input-div"> 
         <h1> Welcome to Money Quiz App(MQA) 💰</h1>
       <div className="start">
       
