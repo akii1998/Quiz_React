@@ -23,7 +23,7 @@ function Start({ SetUser }) {
       </div>
       </div>
       <div className="instruction">
-        <h3>Instructions and rules</h3>
+        <h2>Instructions and rules for playing this game</h2>
         <ol type="number">
           <li>This is Money Quiz app</li>
           <li>In this, User is entroll your name</li>

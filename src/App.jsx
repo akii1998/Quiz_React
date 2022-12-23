@@ -155,7 +155,7 @@ function App() {
           </div>
           <div className="pyramid">
             <ul className="moneyList">
-              <div className="feild">
+              <div className="field">
                 <h2 className="username">{userName}</h2>
                 <h2 className="score">Score : {earned}</h2>
               </div>
