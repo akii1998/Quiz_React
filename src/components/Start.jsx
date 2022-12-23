@@ -30,7 +30,7 @@ function Start({ SetUser }) {
           <li>User name is shown on main Screen</li>
           <li>This app is having 17 questions</li>
           <li>Each question having 4 answers</li>
-          <li>On click answer it take 5 second <br/>for validation of answer is correct/wrong</li>
+          <li>On click answer it take 5 second for validation of <br/> answer is correct/wrong</li>
           <li>Timing of giving answer is 60 second</li>
           <li>There is quiz option for exit that game</li>
         </ol>
