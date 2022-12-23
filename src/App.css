@@ -281,3 +281,11 @@
   
   
 }
+
+.instruction{
+  box-shadow:
+  0 0 7px rgb(7, 231, 231),
+  0 0 10px rgb(3, 217, 210);
+  line-height: 1.8;
+  text-align: justify;
+}
