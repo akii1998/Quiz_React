@@ -49,7 +49,7 @@ export const QuizKbc = ({
     );
 
     //another delay for rendering another question
-    delay(5000, () => {
+    delay(7000, () => {
       if (a.correct) {
         correctAnswer(); //sound effect
         delay(1000, () => {
