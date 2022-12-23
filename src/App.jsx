@@ -115,7 +115,10 @@ function App() {
         <>
           <div className="main">
             {stopTimer ? (
-              <h1 className="endText">Your winning amount: {earned}</h1>
+              <h1 className="earnText">
+                Congratulations {userName} <br />
+                You Earned {earned}
+              </h1>
             ) : (
               <>
                 <div className="top">
@@ -152,6 +155,10 @@ function App() {
           </div>
           <div className="pyramid">
             <ul className="moneyList">
+              <div className="feild">
+                <h2 className="username">{userName}</h2>
+                <h2 className="score">Score : {earned}</h2>
+              </div>
               {moneyPramid.map((m) => (
                 <li
                   className={
